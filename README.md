@@ -4,7 +4,7 @@
    </a>
 </p>
 <h1 align="center">
-    CS511.N11.KHCL - Ngôn ngữ C#
+   IE221.N21.CNCL - Kỹ thuật lập trình Python
 </h1>
 
 <h2>
