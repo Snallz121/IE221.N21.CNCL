@@ -6,14 +6,13 @@ def swap(a,b):
         a = b
         b = tmp
     return a, b
+if(h < w):
+    h, w = swap(h,w)
+while(h < n):
+    h = h * 2
+    count += 1
+while(w < m):
+    w = w * 2
+    count += 1
 
-while(True):
-    if(n >= h and m >= w):
-        break;
-    while(n < h):
-        h *= 2
-        count += 1
-    while(m < w):
-        w *= 2
-        count += 1
 print(count)
