@@ -40,3 +40,17 @@
 
 </table>
 
+<h2>
+Cách chạy File
+</h2>
+
+<h3>
+B1: Clone repo về:
+git clone https://github.com/Snallz121/IE221.N21.CNCL
+
+B2: Mở Cmd vào file fast.txt lấy đường dẫn và sửa sao cho phù hợp đường dẫn đến activate.bat trong env folder
+
+B3: Paste đường dẫn đã sửa vào cmd để chạy môi trường python có các package phù hợp phiên bản
+
+B4: Chạy thôi
+</h3>
