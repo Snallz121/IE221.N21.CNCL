@@ -1,0 +1,2 @@
+D:\Project\IE221\env\Scripts\activate.bat
+D:\Project\IE221\env\Scripts\deactivate.bat

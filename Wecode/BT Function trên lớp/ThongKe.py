@@ -4,7 +4,7 @@ def ThongKe(InputText):
     NumberOfWord = len(InputText)
     NumberOfUpperWord = 0
     NumberOfLowerWord = 0
-    InputText = InputText.split("")
+    tmpText = InputText
     for i in InputText:
         if(i.isupper() == True):
             NumberOfUpperWord += 1

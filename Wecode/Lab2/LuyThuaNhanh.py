@@ -1,5 +1,4 @@
 m, n = map(int, input().split())
-res = 1
 
 def MyPow(m, n):
     if(n == 0):
@@ -9,4 +8,4 @@ def MyPow(m, n):
     else:
         return MyPow(m, n - 1) * m
     
-print(MyPow(m, n))
+print(MyPow(m, n) % 1000000007)
