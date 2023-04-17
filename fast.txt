@@ -1,2 +1,2 @@
-D:\Project\IE221\env\Scripts\activate.bat
-D:\Project\IE221\env\Scripts\deactivate.bat
+<Link to Folder>\IE221\env\Scripts\activate.bat
+<Link to Folder>\IE221\env\Scripts\deactivate.bat
